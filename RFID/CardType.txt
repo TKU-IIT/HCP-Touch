@@ -1,0 +1,7 @@
+CardType=ELCHP
+CardType=ELCHP
+CardType=ELCHP
+CardType=CYCHP
+CardType=ADCHP
+CardType=ELCHP
+CardType=ADCHP

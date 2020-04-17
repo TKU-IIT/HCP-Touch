@@ -1,0 +1,19 @@
+<style type="text/css">
+body {
+  width: 450px;
+  height: 300px;
+}
+</style>
+      <div style="position:fixed; left:10px; top:1px;">
+      	     <form action="new.php">
+      <input type="submit" style="background-image:url(home.bmp);width:34px;height:35px;">
+</form>
+      </div>
+<body background="CHP-WLAN.bmp">
+      <div style="position:fixed; left:168px; top:70px;">
+<INPUT TYPE = "Text" VALUE ="請輸入SSID" NAME = "ssid" style="background-color:#f97ada;width:217px;height: 33px" >
+      </div>
+      <div style="position:fixed; left:168px; top:108px;">
+<INPUT TYPE = "Text" VALUE ="請輸入金鑰" NAME = "ssid" style="background-color:#f97ada;width:217px;height: 33px" >
+      </div>
+

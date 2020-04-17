@@ -1,0 +1,82 @@
+<head>
+	<meta charset="utf-8">
+
+	<title>Virtual Keyboard</title>
+
+	<!-- jQuery (required) & jQuery UI + theme (optional) -->
+	<link href="docs/css/jquery-ui.min.css" rel="stylesheet">
+	<!-- still using jQuery v2.2.4 because Bootstrap doesn't support v3+ -->
+	<script src="docs/js/jquery-latest.min.js"></script>
+	<script src="docs/js/jquery-ui.min.js"></script>
+	<!-- <script src="docs/js/jquery-migrate-3.0.0.min.js"></script> -->
+
+	<!-- keyboard widget css & script (required) -->
+	<link href="css/keyboard.css" rel="stylesheet">
+	<script src="js/jquery.keyboard.js"></script>
+
+	<!-- keyboard extensions (optional) -->
+	<script src="js/jquery.mousewheel.js"></script>
+	<script src="js/jquery.keyboard.extension-typing.js"></script>
+	<script src="js/jquery.keyboard.extension-autocomplete.js"></script>
+	<script src="js/jquery.keyboard.extension-caret.js"></script>
+
+	<!-- demo only -->
+	<link rel="stylesheet" href="docs/css/bootstrap.min.css">
+	<link rel="stylesheet" href="docs/css/font-awesome.min.css">
+	<link href="docs/css/demo.css" rel="stylesheet">
+	<link href="docs/css/tipsy.css" rel="stylesheet">
+	<link href="docs/css/prettify.css" rel="stylesheet">
+	<script src="docs/js/bootstrap.min.js"></script>
+	<script src="docs/js/demo.js"></script>
+	<script src="docs/js/jquery.tipsy.min.js"></script>
+	<script src="docs/js/prettify.js"></script> <!-- syntax highlighting -->
+</head>
+<style type="text/css">
+body {
+  width: 450px;
+  height: 300px;
+}
+
+input[type="button"]
+{
+
+    display:block;
+    border: none;
+    outline:none;
+}
+input[type="submit"]
+{
+
+    display:block;
+    border: none;
+    outline:none;
+}
+input[type="text"]
+{
+
+    display:block;
+    border: none;
+    outline:none;
+}
+</style>
+<body background="CHP-home.bmp">
+      <div style="position:fixed; left:440px; top:0px;">
+      	     
+      <input type="button" style="background-image:url(VEins.bmp);width:40px;height:40px;">
+
+      </div>
+<div style="position:fixed; left:395px; top:0px;">
+      <input type="button" style="background-image:url(sprache.bmp);width:42px;height:40px;">
+      </div> <form action="wifi.php">
+      <div style="position:fixed; left:338px; top:0px;">
+      <input type="submit"value='' style="background-image:url(WLAN.bmp);width:59px;height:40px;">
+      </div>
+      </form>
+<p?
+ini_set('display_errors', 1);
+error_reporting(E_ALL ^ E_NOTICE);
+?>
+      
+
+
+
